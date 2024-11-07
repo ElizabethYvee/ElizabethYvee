@@ -1,5 +1,5 @@
 
-<h1>Elizabeth Yve Dark (She/her) <br/><a href="https://www.linkedin.com/in/elizabeth-yve-dark">✨Technical Author</a>, <a href="https://orcid.org/0000-0003-3900-4140">✨Psychology Research Postgraduate</a>, <a href="#">✨Artist</a></h1>
+<h1>Elizabeth Yve Dark (She/her) <br/><a href="https://www.linkedin.com/in/elizabeth-yve-dark">✨Technical Author</a>, <a href="https://orcid.org/0000-0003-3900-4140" target="_blank">✨Psychology Research Postgraduate</a>, <a href="#">✨Artist</a></h1>
 
 <h2>About Me</h2>
 Technical author by day, data dork by night! I love learning and applying technical skills to real-world, people-facing problems. 
